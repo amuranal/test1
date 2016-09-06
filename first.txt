@@ -1,5 +1,2 @@
 master changes
-<<<<<<< HEAD
-=======
-Test
->>>>>>> 9cdccbc057d489211f2c7065c63a299ba83b7870
+tttt
